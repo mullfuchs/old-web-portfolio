@@ -1,6 +1,26 @@
 body{
-  background-color: black;
-  color: white;
-  font-family: sans-serif;
   text-align: center;
+}
+
+p{
+  text-align: left;
+}
+
+h1{
+  color: #0D195B;
+}
+
+#icon{
+  padding-top: -100px;
+  font-size: 100px;
+  color: #D50C21;
+  padding-top: -30px;
+}
+
+.fa-star{
+  color: #D50C21;
+}
+
+.fa{
+  color: #D50C21;
 }
