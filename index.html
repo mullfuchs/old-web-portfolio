@@ -1,198 +1,41 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" ng-app="PortfolioApp">
 <head>
-  <title>Personal Page of L burke</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portfolio of Leo Burke</title>
+  <base href="/">
+  <link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
   <script src="https://use.fontawesome.com/fe8c79deec.js"></script>
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <!-- Latest compiled and minified CSS -->
-
-
-
-<!-- Optional theme --><!-- 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
- -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-resource/1.5.8/angular-resource.min.js"></script>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.18/angular-ui-router.js"></script>
+  <script type="text/javascript" src="js/app.js"></script>
+  <script type="text/javascript" src="js/controllers.js"></script>
+  <script type="text/javascript" src="js/factories.js"></script>
+  <script type="text/javascript" src="js/filters.js"></script>
 </head>
 <body>
-
 <div class="container">
-<div class="row">
 
-</div>
-<div class="row">
-  <div class="col-md-12">
-    <ul class="list-inline">
-      <li>About</li>
-      <li>Skills</li>
-      <li>Work</li>
-      <li>Contact</li>
-    </ul>
-  </div>
-</div>
-<h1>Portfolio site of Leo Burke</h1>
-
-<div id="logo">
-<i class="fa fa-star fa-5x"></i>
-</div>
-
-<div class="row">
-  <div class="col-md-2">
-    <h1>About</h1>
-  </div>
-  <div class="col-md-8">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-2">
-    <h1>Skills</h1>
-  </div>
-  <div class="col-md-8">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  
-  <div class="row">
-    <div class="col-md-2">
-      <i class="fa fa-gamepad fa-5x" aria-hidden="true"></i>
-    </div>
-    <div class="col-md-10">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-  </div>
-
-
-  <div class="row">
-    <div class="col-md-2">
-      <i class="fa fa-gamepad fa-5x" aria-hidden="true"></i>
-    </div>
-    <div class="col-md-10">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-  </div>
-
-
-  <div class="row">
-    <div class="col-md-2">
-      <i class="fa fa-gamepad fa-5x" aria-hidden="true"></i>
-    </div>
-    <div class="col-md-10">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-  </div>
-
-  </div>
-
-</div>
-
-<div class="row">
-  <div class="col-md-2">
-    <h1>Work</h1>
-  </div>
-  <div class="col-md-8">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <div class="row">
-    <div class="col-md-2">
-    <i class="fa fa-picture-o fa-5x"></i>
-    </div>
-    <div class="col-md-10">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-    </div>
-
-    <div class="row">
-    <div class="col-md-2">
-    <i class="fa fa-picture-o fa-5x"></i>
-    </div>
-    <div class="col-md-10">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-    </div>
-
-        <div class="row">
-    <div class="col-md-2">
-    <i class="fa fa-picture-o fa-5x"></i>
-    </div>
-    <div class="col-md-10">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-    </div>
-
-  </div>
-
-
-
-</div>
-
-
-<div class="row">
-  <div class="col-md-2">
-    <h1>Contact</h1>
-  </div>
-  <div class="col-md-8">
-  <ul class="list-inline">
-  <li><i class="fa fa-linkedin fa-5x" aria-hidden="true"></i></li>
-  <li><i class="fa fa-envelope fa-5x" aria-hidden="true"></i></li>
-  <li><i class="fa fa-github fa-5x" aria-hidden="true"></i></li>
+<nav class="navbar navbar-default">
+  <ul class="nav navbar-nav">
+    <li><a ui-sref="main">Home</a></li>
+    <li><a ui-sref="about">About</a></li>
+    <li><a ui-sref="webapps">Web Apps</a></li>
+    <li><a ui-sref="games">Pro Work</a></li>
+    <li><a ui-sref="projects">Other Projects</a></li>
+    <li><a ui-sref="resume">Resume</a></li>
+    <li><a ui-sref="contact">Contact</a></li>
   </ul>
-  </div>
+</nav>
+  <div ui-view></div>
 </div>
-
-</div>
-
-
-
 </body>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-
-
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
 </html>

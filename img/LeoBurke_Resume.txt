@@ -1,0 +1,83 @@
+Leo Burke 
+burke.leo@gmail.com 913-945-0544
+Portfolio: www.unicodeunicorn.com
+
+Skills: Web Development, Game Design, Level Design, Scripting, Programming
+Languages: Javascript, C#, Ruby ,Java, C++, Actionscript 3
+Web Technologies: Node.js, Angular, Express, Ruby On Rails, PostgresQL, MongoDB
+Software:  Unity3D, Microsoft Excel, Photoshop, Blender.
+Other Skills: Illustration, Graphic Design, 3D modeling, Writing.
+
+Work Experience
+General Assembly - Web Development Immersive 7/18/2016 - Present
+  -Full stack web development in an intense multi-week study period
+  -Created web apps with Ruby on Rails, Express, Node.js, and other technologies
+  -Languages used include Javascript and Ruby
+  
+Microsoft/Turn 10 - Product Designer - Forza Motorsports 11/5/2015 - 3/7/2016
+  Shipped Projects: Forza Motorsports: Porsche Expansion DLC, NASCAR Expansion DLC
+  -Responsible for creation of track related assets and features using proprietary editing tools.
+-Programmed designer tools to assist with content creation related tasks  (C#)
+-Pitched key features for unannounced game to management
+
+Popcap - QA Analyst- Bejeweled Blitz, Plants Vs Zombies 2 1/5/2015 - 11/5/2015
+  Lead Engineer for company hackathon (C#, Unity 3D)
+  Performed QA testing and test case creation for Bejeweled Blitz and Plants Vs Zombies 2
+  Gathered requirements and created test cases for off site test team
+
+Glu Mobile - Associate Game Designer -  Deer Hunter 2014 2/14/2014 - 12/5/2014
+  -Designed, scripted, and shipped 10 monthly content updates for Deer Hunter 2014.
+    ~20% gain in daily revenue after each release.
+-Created mission level layouts and whiteboxes using Unity3D.
+-Modeled and tuned complex game systems using Excel. 
+-Analyzed live data and player feedback to continually optimize existing game experience. 
+-Contributions include initial concepts, original content creation using existing resources, level whiteboxes, mission layouts & scripting, and weapon creation.
+-Worked directly with Art and QA teams for every release.
+-Designed, pitched, Implemented and shipped new game features to improve customer acquisition, engagement and/or monetization
+-Pitched new game concepts to management.
+
+Glu Mobile - QA Tester 12/6/2013 - 2/14/2014
+  -Performed QA testing for Deer Hunter 2014 live content.
+  -Assisted with the development of 2 Releases prior to being hired as Game Designer
+
+Independent game developer 6/1/2010 - Present
+-Created several small games with Unity3D, C# and AS3
+-Participated in numerous game jams.  (Molyjam 2013, Ludum Dare 48)
+-Rapid prototyping and a short turnaround time (48 hrs - 7 days) 
+
+
+
+
+ Personal Projects:
+  The Tower Inverted - November 2015 (Unity 3D) Featured on PC Gamer and killscreendaily.com
+  Press E To - November 2014 (Unity 3D) Featured on Kotaku, Rock Paper Shotgun, and killscreendaily.com
+  776-778-780 - March 2014 (Unity 3D) Featured on PCGamer and killscreendaily.com
+Scarred - July 2013 (Unity 3D) - Featured on Freeindiegam.es 
+
+Red Meat Games - Game programmer - Unity 3D: 3/1/2013 - 11/30/2013
+-Game Design, Gameplay & GUI Programming using C#
+-Integration with social media APIs (Facebook, Twitter) 
+
+Sprint Nextel - Software QA Engineer  9/1/2012 - 9/5/2013
+-User Acceptance Testing (UAT) for sprint.com
+-Manual regression testing on existing sites
+-Test Planning and Execution
+-Device validation for sprint.com’s mobile site 
+
+Hit The Sticks LLC - Game Programmer 7/1/2011-11/30/2011  
+-Designed and programmed in-game UI system using Java.
+-Game FX Design and implementation. Scripted in-game effects using JRuby.
+-Wrote custom GLSL shaders for in-game effects.
+-Worked with artist to design and implement in-game visual effects.
+-Used GIT for source control.
+
+Education:
+
+Web Development: General Assembly: Seattle, WA
+  July 2016
+
+Game Design:  Johnson County Community College: Olathe, KS  
+Degree awarded: 8/2010. Dean’s List.
+
+Computer Systems Management:  Kansas State University: Salina KS  
+Degree awarded: 8/2008.
