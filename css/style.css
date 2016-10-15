@@ -28,6 +28,7 @@ body{
   box-shadow: 5px 5px 10px #000000;
 }
 
+
 .name{
   color: black;
   font-size: 65px;
@@ -47,13 +48,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', end
 }
 
 .projimg{
-  text-align: center;
-  width: 100%;
-  overflow: hidden;
-  border-radius: 20px;
-  float: none;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 
 .imgoffset{
@@ -61,7 +56,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0000', end
 }
 
 img{
-  width: 150%;
+  width: 90%;
 }
 
 h1, h2{
