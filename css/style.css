@@ -46,12 +46,31 @@ body{
   box-shadow: 0px 0px 25px #000000; 
 }
 
+.badge{
+  font-family: sans-serif;
+  color: white;
+  background-color: #f2f2f2;
+  width: 250px;
+  height: 400px;
+  border-radius: 15px;
+  border: 5px solid white;
+  margin: 40px auto;
+  padding: 10px;
+    -ms-transform: rotate(4deg); /* IE 9 */
+  -webkit-transform: rotate(4deg); /* Safari */
+  transform: rotate(4deg);
+  box-shadow: 0px 0px 25px #000000; 
+}
+
 .name{
   color: black;
-  font-size: 65px;
+  font-size: 55px;
   line-height: 80px;
-  display: inline;
-  text-align: center;
+  display: block;
+  text-align: left;
+      -ms-transform: rotate(1deg); /* IE 9 */
+  -webkit-transform: rotate(1deg); /* Safari */
+  transform: rotate(1deg);
   font-family: 'Permanent Marker', cursive;
 }
 
@@ -88,6 +107,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0000ff', end
 
 .imgoffset{
   width: 250px;
+}
+
+.headshot{
+  width: 200px;
+  padding-top: 50px;
 }
 
 img{
