@@ -6,10 +6,10 @@ angular.module("PortfolioApp", ['PortfolioCtrl','ui.router'])
     url: '/',
     templateUrl: 'views/main.html',
   })
-  .state('about', {
-    url: '/about',
-    templateUrl: 'views/about.html'
-  })
+  // .state('about', {
+  //   url: '/about',
+  //   templateUrl: 'views/about.html'
+  // })
   .state('games',{
     url: '/games',
     templateUrl: 'views/games.html',
